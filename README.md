@@ -160,13 +160,4 @@ Access the application at `http://localhost:8501`
 - User-friendly error messages in the Streamlit interface
 - Detailed error logging for debugging
 
-## Future Enhancements
 
-- **Multi-Model Support**: Integration with additional LLM providers (OpenAI, Anthropic)
-- **Fine-Tuning Capabilities**: Option to fine-tune models on custom datasets
-- **Advanced Prompt Engineering**: Dynamic prompt optimization based on performance feedback
-- **Batch Processing**: Support for bulk intent classification
-- **API Endpoints**: RESTful API for integration with external systems
-- **Model Comparison**: Side-by-side evaluation of different LLM configurations
-- **Data Augmentation**: Techniques to expand training data through synthetic generation
-- **Real-time Monitoring**: Dashboard for tracking model performance over time
