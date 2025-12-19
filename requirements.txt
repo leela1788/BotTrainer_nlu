@@ -1,0 +1,6 @@
+groq
+python-dotenv
+pyyaml
+streamlit
+scikit-learn
+matplotlib

@@ -1,0 +1,28 @@
+{
+  "eval_data": [
+    {
+      "intent": "cab_request",
+      "examples": [
+        "Please arrange transport to the airport",
+        "I need a ride right now",
+        "Book a taxi for me"
+      ]
+    },
+    {
+      "intent": "food_request",
+      "examples": [
+        "Can you order lunch?",
+        "I’m hungry, get something to eat",
+        "Place a food order for me"
+      ]
+    },
+    {
+      "intent": "weather_query",
+      "examples": [
+        "How’s the weather outside?",
+        "Is it hot today?",
+        "Will it rain later?"
+      ]
+    }
+  ]
+}

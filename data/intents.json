@@ -1,0 +1,106 @@
+{
+  "eval_data": [
+
+   
+    {
+      "intent": "weather_query",
+      "examples": [
+        "What's the weather today?",
+        "Is it going to rain tomorrow in Delhi?",
+        "Temperature in Bangalore",
+        "Will it be sunny today?"
+      ]
+    },
+
+    {
+      "intent": "travel_booking",
+      "examples": [
+        "Book a flight to Mumbai",
+        "I need a train ticket to Chennai",
+        "Plan a trip to Hyderabad",
+        "Book travel for next week"
+      ]
+    },
+
+    {
+      "intent": "hotel_booking",
+      "examples": [
+        "Book a hotel in Delhi",
+        "Reserve a room in Mumbai",
+        "I need accommodation in Jaipur",
+        "Find a hotel for tonight"
+      ]
+    },
+
+    {
+      "intent": "flight_status",
+      "examples": [
+        "Check flight status",
+        "Is flight AI101 on time?",
+        "Track my flight",
+        "Show flight delay details"
+      ]
+    },
+
+    {
+      "intent": "cab_request",
+      "examples": [
+        "Book a cab",
+        "Call a taxi for me",
+        "I need a ride to the airport",
+        "Get me an Uber"
+      ]
+    },
+
+    {
+      "intent": "food_request",
+      "examples": [
+        "Order pizza",
+        "I want to eat biryani",
+        "Get me some food",
+        "Order dinner for me"
+      ]
+    },
+
+    {
+      "intent": "shopping_request",
+      "examples": [
+        "Buy groceries",
+        "Order a laptop",
+        "Add shoes to cart",
+        "I want to shop online"
+      ]
+    },
+
+    {
+      "intent": "music_request",
+      "examples": [
+        "Play some music",
+        "Start workout playlist",
+        "Play relaxing songs",
+        "I want jazz music"
+      ]
+    },
+
+    {
+      "intent": "movie_request",
+      "examples": [
+        "Recommend a movie",
+        "Suggest a good film",
+        "What should I watch tonight?",
+        "Any movie suggestions?"
+      ]
+    },
+
+    {
+      "intent": "news_update",
+      "examples": [
+        "Show me today's news",
+        "Latest headlines",
+        "Any breaking news?",
+        "What's happening in the world?"
+      ]
+    }
+
+  ]
+}
